@@ -1,0 +1,7 @@
+data/
+bin/
+repos/
+build/
+.xmake/
+
+__pycache__/
